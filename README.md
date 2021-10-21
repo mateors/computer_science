@@ -1,5 +1,5 @@
 # Computer Science
-Computer science understanding from ground zero
+Computer science understanding from ground zero builsing a computer.
 
 ## Oscillator
 > An oscillator is a circuit which produces a continuous, repeated, alternating waveform without any input. \
