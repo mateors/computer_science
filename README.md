@@ -1,6 +1,10 @@
 # Computer Science
 Computer science understanding from ground zero
 
+## Oscillator
+> An oscillator is a circuit which produces a continuous, repeated, alternating waveform without any input. \
+> Oscillators convert direct current (DC) from a power supply to an alternating current (AC) signal.
+
 ## Reference
 * [Nano2Tetris Video Tutorial](https://www.youtube.com/channel/UC1BDNANKn483ez62k6Ph2JA/playlists)
 * [Coursera Course Link](https://www.coursera.org/learn/build-a-computer)
