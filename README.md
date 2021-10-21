@@ -6,6 +6,11 @@ Computer science understanding from ground zero builsing a computer.
 ## Exploring How Computers Work
 * [Video Explanation](https://www.youtube.com/watch?v=QZwneRb-zqA)
 
+## Simulation Tool
+* https://sebastian.itch.io/digital-logic-sim
+* https://github.com/SebLague/Digital-Logic-Sim
+
+
 ## Oscillator
 > An oscillator is a circuit which produces a continuous, repeated, alternating waveform without any input. \
 > Oscillators convert direct current (DC) from a power supply to an alternating current (AC) signal.
